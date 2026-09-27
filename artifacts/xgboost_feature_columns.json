@@ -1,0 +1,23 @@
+[
+  "driver_top3_pct_lag1",
+  "driver_top3_pct_lag2",
+  "driver_top3_pct_lag3",
+  "constructor_top3_pct_lag1",
+  "constructor_top3_pct_lag2",
+  "constructor_top3_pct_lag3",
+  "driver_avg_finish_lag1",
+  "driver_avg_finish_lag2",
+  "driver_avg_finish_lag3",
+  "constructor_avg_finish_lag1",
+  "constructor_avg_finish_lag2",
+  "constructor_avg_finish_lag3",
+  "quali_position",
+  "quali_consistency_1y",
+  "quali_consistency_2y",
+  "quali_consistency_3y",
+  "driver_weather_avg_finish_last3y",
+  "weather_dry",
+  "weather_unknown",
+  "weather_variable",
+  "weather_wet"
+]

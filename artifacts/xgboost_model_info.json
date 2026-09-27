@@ -1,0 +1,9 @@
+{
+  "model_name": "XGBoost",
+  "train_auc": 0.9650981120290685,
+  "test_auc": 0.9249727668845317,
+  "threshold": 0.17512334883213043,
+  "n_features": 21,
+  "train_rows": 9160,
+  "test_rows": 240
+}
